@@ -1,3 +1,5 @@
+## UCI Classification with PyTorch
+
 ## Overview
 This repository contains code for training a classification model using a custom dataset. The model is implemented using PyTorch, with data loading, training, validation, and testing procedures. This README will guide you through understanding the structure and functionality of the code.
 
