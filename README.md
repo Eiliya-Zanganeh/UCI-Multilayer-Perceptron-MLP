@@ -41,7 +41,7 @@ Instructions
 * Clone this repository.
 * Install the necessary Python packages:
 ```bash
-pip install torch
+pip install torch pandas
 ```
 Place your dataset in the Dataset folder, or change the file path in the code.
 Run the script to start training and testing the model.
